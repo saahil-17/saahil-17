@@ -1,6 +1,1 @@
-Saahil has depicted a strong leadership potential as a member of LEAD Program (Student leadership development program). He has featured in the Dean’s List in Fall 2017, Spring 2018, Fall 2020.
-Saahil is skilled in C, C++, Java, Python, HTML, CSS, SQL languages and exposed to tools like Android Studio, Anaconda, Jupyter Notebook, RStudio, Eclipse, MATLAB. Some of his certifications include
-• Getting Started with Machine AWS Learning
-• Introduction to Python, SQL (DataCamp)
-• C, C++ (Aptech, India)
-• MDM 101 – MDM Solution Fundamentals (Stibo Systems)
+Motivated and energetic Software Engineer with almost two years of experience in Quality Assurance. Have actively pursued leadership roles within my team by supervising deliverables and representing my team in stakeholder meetings. Proficient manual tester with significant experience in coordinating technical inputs, preparing detailed use cases, executing and testing releases, and analyzing customer-specific issues. Depicted strong leadership potential as a member of the Honors LEAD Program at Georgia State University (2017 – 2021).
